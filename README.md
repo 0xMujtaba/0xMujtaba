@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Blockchain Projects
 - 📫 How to reach me: mujtaba.rbee091@gmail.com
 - :computer: Website: http://mujtaba.c1.biz
-- ⚡ Fun fact: There are 10 Types of people in this world: those who understand binary and those who don't
+- ⚡ Fun fact: There are 10 types of people in this world: those who understand binary and those who don't.
 
