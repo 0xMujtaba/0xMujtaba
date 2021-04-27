@@ -1,4 +1,12 @@
-### Hi there 👋
+[![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
+---
+
+### Hi there, I'm Mujtaba Arbi 👋
+
+:computer: Reach me at: http://mujtaba.c1.biz
+
 
 <!--
 **0xMujtaba/0xMujtaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
