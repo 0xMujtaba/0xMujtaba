@@ -4,10 +4,10 @@
 
 ---
 
-### Hi there, I'm Mujtaba Arbi 👋
+### Hi there, I'm B-Rabbit 👋
 
 <!--
-**0xMujtaba/0xMujtaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B-R4bb1t/B-R4bb1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Blockchain Projects
 - 🌱 I’m currently learning ...
